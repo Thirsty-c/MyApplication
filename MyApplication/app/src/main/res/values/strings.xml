@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">彩虹计算器</string>
+    <string name="shuru">请输入</string>
+    <string name="shuchu">结果</string>
+    <string name="ngenhaox">n√x</string>
+    <string name="xn">x^n</string>
+    <string name="njiecheng">n!</string>
+    <string name="cls">cls</string>
+    <string name="back">back</string>
+    <string name="genhaox">√x</string>
+    <string name="xfang">x^2</string>
+    <string name="mod">mod</string>
+    <string name="zhengchu">//</string>
+    <string name="chu">/</string>
+    <string name="lnx">lnx</string>
+    <string name="logx">logx</string>
+    <string name="sinx">sinx</string>
+    <string name="cosx">cosx</string>
+    <string name="cheng">*</string>
+    <string name="jia">+</string>
+    <string name="jian">-</string>
+    <string name="dengyu">=</string>
+    <string name="dot">.</string>
+    <string name="bin">bin</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+</resources>
